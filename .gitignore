@@ -1,9 +1,12 @@
+*.d
 .eunit
 *.o
 *.beam
 *.plt
 erl_crash.dump
 .concrete/DEV_MODE
+_rel
+.erlang.mk
 
 # rebar 2.x
 .rebar
